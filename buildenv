@@ -1,6 +1,6 @@
 # Update bump details accordingly. Use bump check to confirm.
 # bump: hazelcast-version /HAZELCAST_VERSION="(.*)"/ https://github.com/hazelcast/hazelcast|semver:*
-# HAZELCAST_VERSION="V.R.M" # Specify a stable release
+# HAZELCAST_VERSION="5.5.0" # Specify a stable release
 # export ZOPEN_STABLE_TAG="v${HAZELCAST_VERSION}"
 
 ###
