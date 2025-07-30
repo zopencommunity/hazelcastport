@@ -1,1 +1,34 @@
-­Z­Á¤£–”£‰ƒ@¥…™¢‰–•@¤—„£…¢½Mˆ££—¢zaa‡‰£ˆ¤‚Kƒ–”a©–—…•ƒ–””¤•‰£¨aˆ©…“ƒ¢£—–™£aƒ£‰–•¢a¦–™’†“–¦¢a‚¤”—K¨”“a‚„‡…K¢¥‡]½Mˆ££—¢zaa‡‰£ˆ¤‚Kƒ–”aéÖâÖ—…•ã––“¢aˆ©…“ƒ¢£—–™£aƒ£‰–•¢a¦–™’†“–¦¢a‚¤”—K¨”“]{@ˆ©…“ƒ¢£È©…“ƒ¢£@‰¢@@¤•‰†‰…„@™…“`£‰”…@„£@—“£†–™”@ƒ–”‚‰•‰•‡@¢£™…”@—™–ƒ…¢¢‰•‡@¦‰£ˆ@@†¢£@„£@¢£–™…k@““–¦‰•‡@ƒ¤¢£–”…™¢@£–@ƒ£@‰•¢£•£“¨@–•@„£`‰•`”–£‰–•@†–™@™…“`£‰”…@‰•¢‰‡ˆ£¢K{@É•¢£““£‰–•@•„@ä¢‡…ä¢…@£ˆ…@©–—…•@—ƒ’‡…@”•‡…™@M­Ø¤‰ƒ’â£™£@Ç¤‰„…½Mˆ££—¢zaa©–—…•Kƒ–””¤•‰£¨a{aÇ¤‰„…¢aØ¤‰ƒ’â£™£]]@£–@‰•¢£““zyyy‚¢ˆ©–—…•@‰•¢£““@ˆ©…“ƒ¢£yyy{@Â¤‰“„‰•‡@†™–”@â–¤™ƒ…ñK@Ã“–•…@£ˆ…@™…—–¢‰£–™¨zyyy‚¢ˆ‡‰£@ƒ“–•…@ˆ££—¢zaa‡‰£ˆ¤‚Kƒ–”a©–—…•ƒ–””¤•‰£¨aˆ©…“ƒ¢£—–™£K‡‰£ƒ„@ˆ©…“ƒ¢£—–™£yyyòK@Â¤‰“„@¤¢‰•‡@©–—…•zyyy‚¢ˆ©–—…•@‚¤‰“„@`¥¥yyyâ……@£ˆ…@­©–—…•@—–™£‰•‡@‡¤‰„…½Mˆ££—¢zaa©–—…•Kƒ–””¤•‰£¨a{aÇ¤‰„…¢a×–™£‰•‡]@†–™@”–™…@„…£‰“¢K{@Ä–ƒ¤”…•££‰–•{@ã™–¤‚“…¢ˆ––£‰•‡{@Ã–•£™‰‚¤£‰•‡Ã–•£™‰‚¤£‰–•¢@™…@¦…“ƒ–”…Z@×“…¢…@†–““–¦@£ˆ…@­©–—…•@ƒ–•£™‰‚¤£‰–•@‡¤‰„…“‰•…¢½Mˆ££—¢zaa‡‰£ˆ¤‚Kƒ–”a©–—…•ƒ–””¤•‰£¨a”…£a‚“–‚a”‰•aÃÖÕãÙÉÂäãÉÕÇK”„]K
+[![Automatic version updates](https://github.com/zopencommunity/hazelcastport/actions/workflows/bump.yml/badge.svg)](https://github.com/ZOSOpenTools/hazelcastport/actions/workflows/bump.yml)
+
+# hazelcast
+
+Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.
+
+# Installation and Usage
+
+Use the zopen package manager ([QuickStart Guide](https://zopen.community/#/Guides/QuickStart)) to install:
+```bash
+zopen install hazelcast
+```
+
+# Building from Source
+
+1. Clone the repository:
+```bash
+git clone https://github.com/zopencommunity/hazelcastport.git
+cd hazelcastport
+```
+2. Build using zopen:
+```bash
+zopen build -vv
+```
+
+See the [zopen porting guide](https://zopen.community/#/Guides/Porting) for more details.
+
+# Documentation
+
+
+# Troubleshooting
+
+# Contributing
+Contributions are welcome! Please follow the [zopen contribution guidelines](https://github.com/zopencommunity/meta/blob/main/CONTRIBUTING.md).
